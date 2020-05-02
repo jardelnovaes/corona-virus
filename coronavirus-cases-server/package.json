@@ -1,0 +1,24 @@
+{
+  "name": "coronavirus-cases-server",
+  "version": "1.0.0",
+  "description": "Simple server for Angular App test",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jardelnovaes/corona-virus/corona-virus-server.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Jardel Novaes",
+  "license": "ISC"
+}
